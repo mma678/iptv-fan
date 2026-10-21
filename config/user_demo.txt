@@ -289,7 +289,11 @@ BSTV (Hong Kong) (576p),http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u
 Celestial Movies (576i),http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
+Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
+China Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-3/master.m3u8
+Golden Chinese Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
 Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
