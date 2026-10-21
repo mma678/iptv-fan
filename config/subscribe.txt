@@ -2,6 +2,7 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+🌊港·澳·台,#genre#
 Asian Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
 Golden Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 Jade (1080p),http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
