@@ -261,7 +261,7 @@ Astro AOD,https://cdn.qd.je/163189/aod
 Astro AEC,https://cdn.qd.je/163189/aec
 Astro欢喜台,https://cdn.qd.je/163189/hxt
 爱奇艺,https://cdn.qd.je/163189/iqiyi
-天映频道,https://cdn.qd.je/163189/typd2
+天映频道,https://cdn.qd.je/163189/typd
 天映经典,https://cdn.qd.je/163189/ccm2
 CH5,https://cdn.qd.je/163189/ch5
 CH8,https://cdn.qd.je/163189/ch8
