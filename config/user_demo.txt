@@ -315,7 +315,7 @@ Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 TVBS亚洲,https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
