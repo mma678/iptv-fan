@@ -352,7 +352,7 @@ NCIS Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 ICI RDI (720p),https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 The Weather Network (720p),https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 Knowledge Network (720p),https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-Nick JR,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+Nick Jr,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 TVOKids (720p),https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
 🎬电影频道,#genre#
