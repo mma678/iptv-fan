@@ -335,11 +335,23 @@ Viutv,https://10.fast.hidns.vip/163189/viu/
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 Animax Asia Taiwan,http://125.227.210.55:3056/VideoInput/play.ts
-AXN Asia Taiwan(1080p),http://125.227.210.55:4050/VideoInput/play.ts
-CGNTV Chinese(1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-Cinemax Asia Taiwan(1080p),http://125.227.210.55:1001/VideoInput/play.ts
-Discovery Asia Taiwan(1080p),http://125.227.210.55:1004/VideoInput/play.ts
-HBO Asia Taiwan(1080p),http://125.227.210.55:1003/VideoInput/play.ts
+AXN Asia Taiwan (1080p),http://125.227.210.55:4050/VideoInput/play.ts
+CGNTV Chinese (1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+Cinemax Asia Taiwan (1080p),http://125.227.210.55:1001/VideoInput/play.ts
+Discovery Asia Taiwan (1080p),http://125.227.210.55:1004/VideoInput/play.ts
+HBO Asia Taiwan (1080p),http://125.227.210.55:1003/VideoInput/play.ts
+
+🇨🇦Canada,#genre#
+CBC News Network (1080p),https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
+CTVNews Toronto (720p),https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+CNN (720p),https://tvsen6.aynaott.com/cnn/index.m3u8
+CP24 (576p),https://tvsen6.aynaott.com/cp24/index.m3u8
+FIFA+ US (720p),https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+NCIS US,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
+NCIS Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+ICI RDI (720p),https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+Nick JR,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+TVOKids (720p),https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
 🎬电影频道,#genre#
 CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
