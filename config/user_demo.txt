@@ -308,6 +308,7 @@ Pet Club TV (1080p),https://petclub-samsungaus.amagi.tv/playlist.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 TVBS亚洲,https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -333,6 +334,12 @@ Viutv,https://10.fast.hidns.vip/163189/viu/
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
+Animax Asia Taiwan,http://125.227.210.55:3056/VideoInput/play.ts
+AXN Asia Taiwan(1080p),http://125.227.210.55:4050/VideoInput/play.ts
+CGNTV Chinese(1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+Cinemax Asia Taiwan(1080p),http://125.227.210.55:1001/VideoInput/play.ts
+Discovery Asia Taiwan(1080p),http://125.227.210.55:1004/VideoInput/play.ts
+HBO Asia Taiwan(1080p),http://125.227.210.55:1003/VideoInput/play.ts
 
 🎬电影频道,#genre#
 CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
