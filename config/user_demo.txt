@@ -351,6 +351,8 @@ NCIS US,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 NCIS Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 Ici Radio-Canada Tele CBAFT-DT (Geo-blocked),https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 Ici Radio-Canada Tele CBFT-DT (1080p) (Geo-blocked),https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+Ici Radio-Canada Tele CBKFT-DT (Geo-blocked),https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
+Ici Radio-Canada Tele CFHD-DT (720p),https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI (720p),https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 The Weather Network (720p),https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 Knowledge Network (720p),https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
