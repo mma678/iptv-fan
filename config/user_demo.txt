@@ -342,13 +342,14 @@ HBO Asia Taiwan (1080p),http://125.227.210.55:1003/VideoInput/play.ts
 
 🇨🇦Canada,#genre#
 CBC News Network (1080p),https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
-CTVNews Toronto (720p),https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+CityNews Toronto (720p),https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
+CityNews Vancouver (720p),https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 CNN (720p),https://tvsen6.aynaott.com/cnn/index.m3u8
 CP24 (576p),https://tvsen6.aynaott.com/cp24/index.m3u8
 FIFA+ US (720p),https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 MTV Classic CA (720p),https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
-NCIS US,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
-NCIS Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+NCIS (US) CA,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
+NCIS: Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 Ici Radio-Canada Tele CBAFT-DT (Geo-blocked),https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 Ici Radio-Canada Tele CBFT-DT (1080p) (Geo-blocked),https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 Ici Radio-Canada Tele CBKFT-DT (Geo-blocked),https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
