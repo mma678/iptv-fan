@@ -31,6 +31,9 @@ CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV-5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV-5,https://cdn.qd.je/163189/cctv5
 CCTV-5,https://cdn.qd.je/163189/cctv5-2
+CCTV-5+,http://223.78.65.165:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://101.35.240.114:88/live.php?id=CCTV5p
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
@@ -197,6 +200,7 @@ CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 广东珠江,http://r.jdshipin.com/sE5vO
 广东体育,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty
 广东体育,http://173.208.234.146/live/gdty.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
@@ -358,17 +362,27 @@ Viutv,https://10.fast.hidns.vip/163189/viu/
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
 Animax Asia Taiwan,http://125.227.210.55:3056/VideoInput/play.ts
-AXN Asia Taiwan (1080p),http://125.227.210.55:4050/VideoInput/play.ts
+AXN Asia Taiwan,http://125.227.210.55:4050/VideoInput/play.ts
 Cinemax Asia Taiwan (1080p),http://125.227.210.55:1001/VideoInput/play.ts
 Discovery Asia Taiwan (1080p),http://125.227.210.55:1004/VideoInput/play.ts
 HBO Asia Taiwan (1080p),http://125.227.210.55:1003/VideoInput/play.ts
 
 🇨🇦Canada,#genre#
+Bloomberg TV,https://bloomberg.com/media-manifest/streams/eu.m3u8
+CNBC,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+CBS News,https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+NBC News Now,https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+NBC News Now,https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+Fox News,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+ESPN,http://181.78.197.59:8000/play/a07z/index.m3u8
+NBC Sports Now,https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 CBC News Network (1080p),https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 CityNews Toronto (720p),https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 CityNews Vancouver (720p),https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
@@ -387,6 +401,7 @@ The Weather Network (720p),https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 Knowledge Network (720p),https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 Nick Jr,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 Nicktoons (US) CA,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+Nicktoons US,http://41.205.93.154/NICKTOONS/index.m3u8
 TVOKids (720p),https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 
 🎬电影频道,#genre#
