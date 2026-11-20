@@ -472,13 +472,6 @@ ViuTV6,https://cdn.qd.je/163189/viu6无线星河,http://php.jdshipin.com/TVOD/ip
 澳門綜藝,https://cdn.qd.je/163189/amzy
 澳門體育,https://cdn.qd.je/163189/amty
 爱奇艺,https://cdn.qd.je/163189/iqiyi
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
-纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 翡翠台,http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -496,10 +489,6 @@ ViuTV6,https://cdn.qd.je/163189/viu6无线星河,http://php.jdshipin.com/TVOD/ip
 翡翠台,https://cdn.qd.je/163189/jade
 翡翠台,https://cdn.qd.je/163189/jade2
 翡翠台4K,https://cdn.qd.je/163189/fct4k
-靖天戏剧,https://cdn12.178.indevs.in/163189/177d541552f78003
-靖天映画,https://cdn12.178.indevs.in/163189/bd4752bd7828b2bf
-靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
-靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 龍祥時代電影台,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 龍華偶像台,https://cdn.qd.je/163189/lhox
