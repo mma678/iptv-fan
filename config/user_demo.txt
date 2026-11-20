@@ -345,7 +345,7 @@ Channel-8,https://cdn.qd.je/163189/ch8
 Channel-U,https://cdn.qd.je/163189/chu
 China Movie Channel,http://103.172.187.30:12000/stream/mytv/null-3/master.m3u8
 China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-
+Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
 EBS 1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
