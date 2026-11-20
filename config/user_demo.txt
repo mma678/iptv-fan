@@ -516,9 +516,9 @@ ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012
 ABC News Australia,https://c.mjh.nz/abc-news.m3u8
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 ABC News Live,https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-Al Jazeera ENG,http://stream.mcquack.net/131/index.m3u8
 Al Jazeera ENG,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 Al Jazeera ARABIC,https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+AMC,http://41.205.93.154/AMC/index.m3u8
 AMC,http://23.239.31.26:8989/amc/index.m3u8
 BBC Drama,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 BBC Drama,https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
