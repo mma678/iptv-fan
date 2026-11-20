@@ -543,7 +543,6 @@ Ici Radio-Canada Tele CBKFT-DT (Geo-blocked),https://rcavlive.akamaized.net/hls/
 Ici Radio-Canada Tele CFHD-DT (720p),https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI (720p),https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
 The Weather Network (720p),https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
-Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 
 International,#genre#
 A&E,http://23.239.31.26:8989/aande/index.m3u8
