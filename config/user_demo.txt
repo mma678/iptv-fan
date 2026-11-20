@@ -655,7 +655,6 @@ NHL Network,https://nhl-firetv.amagi.tv/playlist.m3u8
 Outdoor Channel,http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 Outdoor Channel,https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 Oxygen,http://198.58.104.90:8989/oxygen/index.m3u8
-Paramount Movie Channel,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=100&deviceId=5cb0cae7a461406ffe3f5213&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 Paramount Movie Channel,https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 Paramount Network,http://4.30.180.36:8420/paramount/index.m3u8?token=test
 Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
