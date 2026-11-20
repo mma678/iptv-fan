@@ -283,7 +283,6 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 哈哈炫动,https://zby.130519.xyz/PLTV/11/224/3221226175/index.m3u8
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 新闻综合,https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 欢笑剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hxjchd
