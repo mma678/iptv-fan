@@ -331,12 +331,12 @@ EBS 1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 Golden Chinese Drama,http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
 Golden Jade,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://r.jdshipin.com/sFw4S
-HOY TV,https://cdn.qd.je/163189/hoy
-HOY TV,https://cdn.qd.je/163189/hoy2
-HOY 國際財經台,https://cdn.qd.je/163189/hoy76
-HOY 資訊台,https://cdn.qd.je/163189/hoy78
+HOY77 TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY77 TV,http://r.jdshipin.com/sFw4S
+HOY77 TV,https://cdn.qd.je/163189/hoy
+HOY77 TV,https://cdn.qd.je/163189/hoy2
+HOY76 Live,https://cdn.qd.je/163189/hoy76
+HOY78 資訊台,https://cdn.qd.je/163189/hoy78
 JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
 JOCX-DTV,https://fujitv4.mov3.co/hls/fujitv.m3u8
 JOEX-DTV,https://tvasahi.mov3.co/hls/tvasahi.m3u8
