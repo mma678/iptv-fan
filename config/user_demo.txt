@@ -383,7 +383,7 @@ TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,https://cdn.qd.je/163189/ylxw
 TVB星河-1,https://cdn.qd.je/163189/tvbxh
 TVB星河-2,https://cdn.qd.je/163189/tvbxh2
-TVB星河-3,http://r.jdshipin.com/Voac4
+TVB星河-2,http://r.jdshipin.com/Voac4
 TVB星河-3,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河-3,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河-3,http://php.jdshipin.com:8880/smt.php?id=Xinhe
