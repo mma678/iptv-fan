@@ -328,6 +328,7 @@ China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287
 Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
 EBS 1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 Golden Chinese Drama,http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
 Golden Jade,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -608,7 +609,6 @@ NBA TV,http://23.237.104.106:8080/USA_NBA/index.m3u8
 NBC News Now,https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 NBC News Now,https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
 NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-NBC Sports NOW,https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 NCIS,https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
 NCIS: Los Angeles,https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 Lubelska.TV,https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8
@@ -626,7 +626,6 @@ Qello Concerts by Stingray,https://lotus.stingray.com/manifest/qello-qello001-mo
 Red Bull TV,https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 Reuters TV,https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 Showtime,http://4.30.180.36:8420/showtime/mono.m3u8?token=test
 SiTV,http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 Sky News,https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
