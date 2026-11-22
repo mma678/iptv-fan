@@ -339,20 +339,12 @@ Channel-U,https://cdn.qd.je/163189/chu
 China Movie Channel,http://103.172.187.30:12000/stream/mytv/null-3/master.m3u8
 China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 Discovering China,https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-Cinemax Asia,https://tinyurl.com/44efw2rx
-Cinemax Asia,http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
-Cinemax Asia,http://125.227.210.55:1001/VideoInput/play.ts
 EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
 EBS 1,https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 Golden Chinese Drama,http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
 Golden Jade,http://103.172.187.30:12000/stream/mytv/null-12/master.m3u8
-HBO Asia,http://202.150.165.66:8088/play/100-HBO/index.m3u8
-HBO Asia,https://tinyurl.com/yn3d3rmd
 HBO Asia Taiwan,http://125.227.210.55:1003/VideoInput/play.ts
-HBO Family Asia,http://202.150.165.66:8088/play/103-HBOFamily/index.m3u8
-HBO Hits Asia,http://202.150.165.66:8088/play/102-HBOHits/index.m3u8
-HBO Signature Asia,http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8
 HOY77 TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY77 TV,http://r.jdshipin.com/sFw4S
 HOY77 TV,https://cdn.qd.je/163189/hoy
@@ -398,7 +390,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,https://m.italkbbtv.com/live/62cc940d4725b5305843ac53
 TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
 TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -718,8 +709,6 @@ CHC重温经典,https://cdn.qd.je/163189/cwjd2
 
 🧸Cartoon动画,#genre#
 CBC Kids Channel,https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
-Cartoon Network Asia,https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-Cartoon Network Asia,http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 CBeebies Asia,http://202.70.146.135:8000/play/a0a2/index.m3u8
 Crunchyroll,https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 Disney Channel East,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
@@ -728,11 +717,9 @@ Disney XD (US),http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 Nick Jr.,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
-Nick Jr. Asia,http://103.253.74.210:7070/stream/116/index.m3u8
 Nick Jr. Club,https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 Nick Jr. Club,https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 Nickelodeon (US),http://198.58.104.90:8989/nickelodeon/index.m3u8
-Nickelodeon Asia,http://103.253.74.210:7070/stream/117/index.m3u8
 NickToons (US),http://41.205.93.154/NICKTOONS/index.m3u8
 Nicktoons,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 Knowledge Network,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
