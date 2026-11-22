@@ -6,6 +6,7 @@ CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+CCTV-1,https://cdn.qd.je/163189/cctv1
 CCTV-2,http://101.66.198.207:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-2,http://107.150.60.122/live/cctv2hd.m3u8
 CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
@@ -14,6 +15,7 @@ CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-2,http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+CCTV-2,https://cdn.qd.je/163189/cctv2
 CCTV-3,http://101.66.198.207:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://112.30.73.119:229/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -21,6 +23,7 @@ CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
 CCTV-3,http://69.30.245.50/live/cctv3.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+CCTV-3,https://cdn.qd.je/163189/cctv3
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
@@ -51,6 +54,7 @@ CCTV-6,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+CCTV-6,https://cdn.qd.je/163189/cctv6
 CCTV-7,http://101.66.198.207:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-7,http://107.150.60.122/live/cctv7hd.m3u8
 CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
