@@ -516,15 +516,20 @@ ViuTV6,https://cdn.qd.je/163189/viu6无线星河,http://php.jdshipin.com/TVOD/ip
 
 🇨🇦Canada,#genre#
 CBC News Network,https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
+CBC News Toronto,https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 CP24,https://tvsen6.aynaott.com/cp24/index.m3u8
+CTV,http://stream.cammonitorplus.net/1712/index.m3u8
 Ici Radio-Canada Tele CBAFT-DT,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 Ici Radio-Canada Tele CBFT-DT,https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 Ici Radio-Canada Tele CBKFT-DT,https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
 Ici Radio-Canada Tele CFHD-DT,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704026/canrdi/master.m3u8
+Noovo Cinéma,https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8
 The Weather Network,https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+TV5Unis,http://23.133.220.149/Unis_TV/index.m3u8
+TVA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
 🌐International,#genre#
 ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
@@ -704,6 +709,7 @@ CHC重温经典,https://cdn.qd.je/163189/cwjd2
 射雕英雄传,https://live.metshop.top/huya/23824164
 
 🧸Cartoon动画,#genre#
+CBC Kids Channel,https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
 CBeebies Asia,http://202.70.146.135:8000/play/a0a2/index.m3u8
 Crunchyroll,https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 Disney Channel East,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
@@ -719,5 +725,6 @@ NickToons (US),http://41.205.93.154/NICKTOONS/index.m3u8
 Nicktoons,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 Knowledge Network,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 TVOKids,https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+TVOKids,https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 Tiny Pop,https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 Toonami Aftermath East,http://api.toonamiaftermath.com:3000/est/playlist.m3u8
