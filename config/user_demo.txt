@@ -443,9 +443,9 @@ ViuTV6,https://cdn.qd.je/163189/viu6无线星河,http://php.jdshipin.com/TVOD/ip
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://cdn.qd.je/163189/fhhk
 千禧经典台,https://cdn.qd.je/163189/tvbc
-华丽翡翠台310,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-华丽翡翠台81,https://cdn.qd.je/163189/hlfct
-华丽翡翠台310,https://cdn.qd.je/163189/hlt
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+华丽翡翠台,https://cdn.qd.je/163189/hlfct
+华丽翡翠台,https://cdn.qd.je/163189/hlt
 台視新聞,http://222.128.55.152:9080/live/ts.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
