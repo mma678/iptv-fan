@@ -711,11 +711,12 @@ Nick Jr.,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 Nick Jr. Club,https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 Nick Jr. Club,https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 Nickelodeon (US),http://198.58.104.90:8989/nickelodeon/index.m3u8
-NickToons (US),http://41.205.93.154/NICKTOONS/index.m3u8
-Nicktoons,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+Nicktoons (US),http://41.205.93.154/NICKTOONS/index.m3u8
+Nicktoons Asia,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 Knowledge Network,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 TVOKids,https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 Tiny Pop,https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 Toonami Aftermath East,http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+
 
 
