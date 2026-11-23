@@ -25,6 +25,8 @@ CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV-3,https://cdn.qd.je/163189/cctv3
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-8K,http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
@@ -165,6 +167,8 @@ CGTN-英语,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN-英语,https://0472.org/hls/cgtn.m3u8
 CGTN-英语,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN-英语,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+CGTN-法语,https://francais-liveali.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+CGTN-法语,https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
@@ -352,6 +356,7 @@ JORX-DTV,https://tbs5.mov3.co/hls/tbs.m3u8
 JOTX-DTV,https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 KBS Joy,https://xykt-fix.github.io/flv/KJ_W.m3u8
 KBS World,https://stream8.cinerama.uz/1448/playlist.m3u8
+KIX,https://freem3u.xyz/api/live/play.m3u8?vid=9901
 Mei Ah Movie Channel,http://103.172.187.30:12000/stream/mytv/null-10/master.m3u8
 Mei Ah Movie Channel,http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8
 Mei Ah Movie Channel,http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
@@ -701,6 +706,8 @@ CHC重温经典,https://cdn.qd.je/163189/cwjd2
 
 🧸Cartoon动画,#genre#
 CBC Kids Channel,https://amagi-streams.akamaized.net/hls/live/2120483/cbckids/master.m3u8
+Cartoon Network Asia,https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+Cartoonito Asia,http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 Crunchyroll,https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 Disney Channel East,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 Disney Junior (US),http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
@@ -717,6 +724,7 @@ Knowledge Network,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a49
 TVOKids,https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 Tiny Pop,https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 Toonami Aftermath East,http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-
+浙江少儿频道,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
+福州电视台少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 
