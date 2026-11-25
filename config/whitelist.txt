@@ -13,7 +13,7 @@ Mei Ah Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-10/mas
 China Movie Channel (1080p),http://103.172.187.30:12000/stream/mytv/null-3/master.m3u8
 Golden Chinese Drama (1080p),http://103.172.187.30:12000/stream/mytv/null-8/master.m3u8
 CP24 (576p),https://tvsen6.aynaott.com/cp24/index.m3u8
-
+浙江少儿频道,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 
 
 
