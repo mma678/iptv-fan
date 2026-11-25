@@ -504,6 +504,7 @@ Bravo,http://41.205.93.154/BRAVO/index.m3u8
 CBS News,https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 CBS News,https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
 CBS Sports HQ,https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+CBS Sports HQ,https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 Cinemax Classics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 Cinemax Hits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
