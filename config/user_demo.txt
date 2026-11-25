@@ -657,8 +657,8 @@ Disney Junior (US),http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 Disney XD (US),http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 Dora TV,https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-PBS Kids,https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+PBS Kids East,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+PBS Kids West,https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 Nick Jr.,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 Nick Jr. Club,https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 Nick Jr. Club,https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
