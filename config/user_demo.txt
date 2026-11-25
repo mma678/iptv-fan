@@ -151,39 +151,32 @@ CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 
 💰央视付费频道,#genre#
-世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
+世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 兵器科技,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gfjs
 卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 央视台球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ystq
-央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
-央视高网,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
+央视高网,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 央视高网,https://hls-gateway.vpstv.net/streams/708857.m3u8
 女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 女性时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-女性时尚,http://dassby.qqff.top:99/live/女性时尚/index.m3u8
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 怀旧剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hjjc
-怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 文化精品,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ysjp
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 第一剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dyjc
-第一剧场,http://dassby.qqff.top:99/live/第一剧场/index.m3u8
 风云剧场,http://173.208.212.130:8181/720p/fyjc.m3u8
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 风云剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyjc
-风云剧场,http://dassby.qqff.top:99/live/风云剧场/index.m3u8
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 风云足球,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyzq
-风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
-风云音乐,http://dassby.qqff.top:99/live/风云音乐/index.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 
 📡卫视频道,#genre#
@@ -346,7 +339,7 @@ ViuTV,http://r.jdshipin.com/TcKr2
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://10.fast.hidns.vip/163189/viu/
 ViuTV,https://cdn.qd.je/163189/viu
-ViuTV6,https://cdn.qd.je/163189/viu6无线星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+ViuTV6,https://cdn.qd.je/163189/viu6
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 三立新闻,https://epg.pw/stream/6b49e3faa38adda85abab446f032dc1e686baa0760a9cfa66e2df8fd6fe3b445.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
@@ -452,12 +445,15 @@ ViuTV6,https://cdn.qd.je/163189/viu6无线星河,http://php.jdshipin.com/TVOD/ip
 龍華電影台,https://cdn.qd.je/163189/lhdy
 
 🇨🇦Canada,#genre#
-CBC News Network,https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
-CBC News Network,https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+CBC News,https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
+CBC News,https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
+CBC News,https://jmp2.uk/plu-6536725167bd1a00084481bc.m3u8
 CBC News Toronto,https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto/master.m3u8
+CBC News Toronto,https://jmp2.uk/plu-6536721dbfbaec00088687c0.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 CP24,https://tvsen6.aynaott.com/cp24/index.m3u8
+Global News Montreal,https://jmp2.uk/plu-62cbfbd6ad95670007f567af.m3u8
 Global News National,https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
 Global News Toronto,https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 Ici Radio-Canada Tele CBAFT-DT,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
@@ -487,6 +483,7 @@ beIN SPORTS XTRA,https://bein-xtra-bein.amagi.tv/playlist.m3u8
 Bloomberg Originals,https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 Bloomberg Originals,https://bloomberg.com/media-manifest/streams/qt.m3u8
 Bloomberg Originals,https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
+Bloomberg TV,https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
 Bloomberg TV,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 Bloomberg TV,https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 Bloomberg TV,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
@@ -519,6 +516,7 @@ CNN,https://tvsen6.aynaott.com/cnn/index.m3u8
 Comedy Central,http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 Comedy Central,https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 Crime + Investigation,http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+DAZN TV,https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 DD Sports,https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 DocuBay TV,https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 Documentary+,https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8
@@ -531,6 +529,7 @@ euronews.,https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3
 euronews.,https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 euronews.,https://jmp2.uk/plu-61de96114757070008d33cae.m3u8
 FIFA+,https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+FIFA+,https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 FIFA+ Women,https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 FITE 24/7,https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8
 Fox News,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
@@ -654,6 +653,7 @@ Crunchyroll,https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 Disney Channel East,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 Disney Junior (US),http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 Disney XD (US),http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+Dora TV,https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 PBS Kids,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 Nick Jr.,https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
@@ -662,6 +662,7 @@ Nick Jr. Club,https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 Nickelodeon (US),http://198.58.104.90:8989/nickelodeon/index.m3u8
 Nicktoons (US),http://41.205.93.154/NICKTOONS/index.m3u8
 Nicktoons Asia,https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
+Pokémon,https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 Knowledge Network,https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 TVOKids,https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
 Tiny Pop,https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
