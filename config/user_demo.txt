@@ -461,6 +461,8 @@ CBC News Toronto,https://amagi-streams.akamaized.net/hls/live/2110961/cbctoronto
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 CP24,https://tvsen6.aynaott.com/cp24/index.m3u8
+Global News National,https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+Global News Toronto,https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 Ici Radio-Canada Tele CBAFT-DT,https://rcavlive.akamaized.net/hls/live/704014/cancbaft/master.m3u8
 Ici Radio-Canada Tele CBFT-DT,https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 Ici Radio-Canada Tele CBKFT-DT,https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master.m3u8
