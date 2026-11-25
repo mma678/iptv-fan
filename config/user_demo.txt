@@ -653,8 +653,6 @@ Cartoon Network Asia,https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/
 Cartoonito Asia,http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 Crunchyroll,https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8
 Disney Channel East,http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
-Disney Junior (US),http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-Disney XD (US),http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 Dora TV,https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 EBS kids,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 PBS Kids East,https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
