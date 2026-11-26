@@ -206,6 +206,7 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://107.150.60.122/live/sdwshd.m3u8
 山东卫视,http://204.12.221.218:8181/3m1080p/sdws.m3u8
+厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
 
 ☘️广东频道,#genre#
 广东珠江,http://173.208.234.146/live/gdzj.m3u8
@@ -232,7 +233,8 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
-
+深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
+厦门卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xmws
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京纪实8K,http://107.150.60.122/live/btv3.m3u8
