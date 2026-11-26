@@ -24,6 +24,7 @@ CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV-3,https://cdn.qd.je/163189/cctv3
 CCTV-4K,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV-4K,http://107.150.52.50:82/live/cctv4k.m3u8
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
@@ -231,8 +232,14 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+北京纪实8K,http://107.150.60.122/live/btv3.m3u8
+北京纪实8K,http://198.204.228.26/live/btv3.m3u8
+北京纪实8K,http://120.76.248.139/live/bfgd/4200000113.m3u8
 北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjwshd
-北京卫视,http://go.bkpcp.top/mg/bjws
+北京卫视,http://123.160.235.204:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://218.13.139.26:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://107.150.60.122/live/bjwshd.m3u8
+北京卫视,http://60.187.246.195:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️上海频道,#genre#
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
@@ -240,6 +247,7 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 多彩文体4K,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hxjchd
 多彩文体4K,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
+多彩文体4K,http://1.192.243.163:8188/rtp/239.16.20.39:10390
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
