@@ -362,7 +362,7 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-中天新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
+中天新聞,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
 中天亚洲,http://50.7.233.114:8278/ctiasia_twn/playlist.m3u8
 中视新闻,http://50.7.233.114:8278/zhongshinews_twn/playlist.m3u8
@@ -371,12 +371,12 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 台視新聞,http://222.128.55.152:9080/live/ts.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 民视,http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
 凤凰中文,http://127.0.0.1:34567/fh/f7f48462-9b13-485b-8101-7b54716411ec.flv
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
