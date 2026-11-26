@@ -418,7 +418,7 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 天映经典-2,https://php.jdshipin.com:2096/smt.php?id=Celestial2
 天映频道(新加坡),https://cdn.qd.je/163189/typd
 天映频道(马来西亚),https://cdn.qd.je/163189/typd2
-寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
 寰宇新闻,http://50.7.233.114:8278/huanyuxinwen_twn/playlist.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
