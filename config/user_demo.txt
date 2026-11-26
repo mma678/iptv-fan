@@ -300,12 +300,7 @@ HOY77 TV,https://cdn.qd.je/163189/hoy
 HOY77 TV,https://cdn.qd.je/163189/hoy2
 HOY76 Live,https://cdn.qd.je/163189/hoy76
 HOY78 資訊台,https://cdn.qd.je/163189/hoy78
-JOAX-DTV,https://ntv5.mov3.co/hls/ntv.m3u8
-JOCX-DTV,https://fujitv4.mov3.co/hls/fujitv.m3u8
-JOEX-DTV,https://tvasahi.mov3.co/hls/tvasahi.m3u8
 JOJG-DTV,https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
-JORX-DTV,https://tbs5.mov3.co/hls/tbs.m3u8
-JOTX-DTV,https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 KBS Joy,https://xykt-fix.github.io/flv/KJ_W.m3u8
 KBS World,https://stream8.cinerama.uz/1448/playlist.m3u8
 KIX,https://freem3u.xyz/api/live/play.m3u8?vid=9901
