@@ -191,12 +191,18 @@ CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC家庭影院,http://69.30.245.50/live/chcjt.m3u8
 CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC影迷电影,http://116.237.170.51:7788/952383261
+CHC影迷电影,http://116.52.173.168:1234/952383261
+CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
+CHC影迷电影,http://198.204.228.26/live/chchd.m3u8
+CHC影迷电影,http://107.150.60.122/live/chchd.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
