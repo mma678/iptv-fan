@@ -704,5 +704,5 @@ Toonami Aftermath East,http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
 优漫卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
 嘉佳卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdjjkt
-动漫秀场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dmxchd
+
 
