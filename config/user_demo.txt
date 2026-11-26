@@ -318,7 +318,7 @@ Thai PBS,https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 RTHK 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK 31,https://cdn.qd.je/163189/rthk31
 RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK 32,https://cdn.qd.je/163189/rthk32
+RTHK 32,https://cdn.qd.je/163189.php?id=rthk32
 RTHK 33,https://cdn.qd.je/163189/rthk33
 TVB Drama,https://cdn.qd.je/163189/tvbd
 TVB Plus,http://r.jdshipin.com/ndGgS
