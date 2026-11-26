@@ -15,6 +15,7 @@ CCTV-2,http://204.12.221.218:8181/3m1080p/cctv2.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-2,http://223.78.65.165:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd
 CCTV-2,https://cdn.qd.je/163189/cctv2
 CCTV-3,http://107.150.60.122/live/cctv3hd.m3u8
 CCTV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd
@@ -30,6 +31,7 @@ CCTV-4,http://107.150.60.122/live/cctv4hd.m3u8
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv4hd
 CCTV-4,http://223.78.65.165:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,https://cdn.qd.je/163189/cctv4
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
