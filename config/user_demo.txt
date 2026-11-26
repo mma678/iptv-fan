@@ -138,17 +138,8 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 CETV-1,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd
-CETV-2,http://198.204.228.26/live/cetv2hd.m3u8
-CETV-2,http://38.75.136.137:98/gslb/dsdqpub/cetv2hd.m3u8?auth=testpub
-CETV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv2hd
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3,http://198.204.228.26/live/cetv3hd.m3u8
-CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3hd.m3u8?auth=testpub
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3hd
-CETV-4,http://198.204.228.26/live/cetv4hd.m3u8
-CETV-4,http://38.75.136.137:98/gslb/dsdqpub/cetv4hd.m3u8?auth=testpub
-CETV-4,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv4hd
 CGTN-Global Biz,https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 CGTN-纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN-纪录,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
