@@ -235,6 +235,7 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 
 ☘️北京频道,#genre#
+北京卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjxwhd
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京纪实8K,http://107.150.60.122/live/btv3.m3u8
 北京纪实8K,http://198.204.228.26/live/btv3.m3u8
