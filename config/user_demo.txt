@@ -235,9 +235,6 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 深圳卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=szwshd
 
 ☘️北京频道,#genre#
-北京新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjxw
-北京新闻,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=bjxwgb
-北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 北京纪实8K,http://107.150.60.122/live/btv3.m3u8
 北京纪实8K,http://198.204.228.26/live/btv3.m3u8
 北京纪实8K,http://120.76.248.139/live/bfgd/4200000113.m3u8
@@ -264,14 +261,10 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 第一财经,http://38.75.136.137:98/gslb/dsdqpub/dycjhd.m3u8?auth=testpub
 第一财经,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dycjhd
 第一财经,http://116.236.204.18:1234/608780988
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 生活时尚,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=shsshd
 生活时尚,http://171.8.138.124:8800/rtp/239.16.20.114:11140
-纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 都市剧场,http://38.75.136.137:98/gslb/dsdqpub/dsjchd.m3u8?auth=testpub
 都市剧场,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dsjchd
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 🌊港·澳·台·新,#genre#
 Animax Asia Taiwan,http://125.227.210.55:3056/VideoInput/play.ts
