@@ -45,6 +45,7 @@ CCTV-5,http://173.208.212.130:8181/720p/cctv5.m3u8
 CCTV-5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 CCTV-5,http://223.78.65.165:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 CCTV-5,https://cdn.qd.je/163189/cctv5
 CCTV-5,https://php.jdshipin.com/TVOD/iptv.php?id=cctv5
 CCTV-6,http://198.204.228.26/live/cctv6hd.m3u8
@@ -66,6 +67,7 @@ CCTV-8,http://173.208.212.130:8181/720p/cctv8.m3u8
 CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
 CCTV-8,http://69.30.245.50/live/cctv8.m3u8
 CCTV-8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV-8,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv8hd
 CCTV-8,https://cdn.qd.je/163189/cctv8
 CCTV-8,http://223.78.65.165:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
@@ -325,11 +327,11 @@ NHK World-Japan,http://nmk.ioapk.com:5050/4gtv-live168/index.m3u8
 NHK World-Japan,https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 WeatherNews,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 Now 新聞台,https://cdn.qd.je/163189/now
+NOW 新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 Thai PBS,https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 RTHK 31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK 31,https://cdn.qd.je/163189/rthk31
 RTHK 31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-RTHK 32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RTHK 32,https://cdn.qd.je/163189/rthk32
 RTHK 33,https://cdn.qd.je/163189/rthk33
 TVB Drama,https://cdn.qd.je/163189/tvbd
@@ -346,6 +348,8 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4027/playlist.m3u8
 TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
 TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -372,7 +376,21 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+中天新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
+中天亚洲,http://50.7.233.114:8278/ctiasia_twn/playlist.m3u8
+中视新闻,http://50.7.233.114:8278/zhongshinews_twn/playlist.m3u8
+中视经典,http://167.88.62.43:64008/0.ts
+非凡新闻,http://50.7.233.114:8278/feifannews_twn/playlist.m3u8
+台視新聞,http://222.128.55.152:9080/live/ts.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
+民视,http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 凤凰中文,http://101.35.240.114:88/phenix.php?id=fhzw
 凤凰中文,http://127.0.0.1:34567/fh/f7f48462-9b13-485b-8101-7b54716411ec.flv
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -391,6 +409,7 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://r.jdshipin.com/0Rp07
 凤凰资讯,https://cdn.qd.je/163189/fhzx
+凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
 凤凰香港,http://101.35.240.114:88/phenix.php?id=fhhk
 凤凰香港,http://127.0.0.1:34567/fh/15e02d92-1698-416c-af2f-3e9a872b4d78.flv
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -398,13 +417,13 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://cdn.qd.je/163189/fhhk
+凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 千禧经典台,https://cdn.qd.je/163189/tvbc
+千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华丽翡翠台,https://cdn.qd.je/163189/hlfct
 华丽翡翠台,https://cdn.qd.je/163189/hlt
-台視新聞,http://222.128.55.152:9080/live/ts.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 天映经典-1,http://o11.163189.xyz/stream/live/ccm/
 天映经典-1,https://cdn.qd.je/163189/ccm
 天映经典-2,http://php.jdshipin.com:8880/smt.php?id=Celestial2
@@ -413,6 +432,8 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 天映频道(新加坡),https://cdn.qd.je/163189/typd
 天映频道(马来西亚),https://cdn.qd.je/163189/typd2
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新闻,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/hyxw.flv
+寰宇新闻,http://50.7.233.114:8278/huanyuxinwen_twn/playlist.m3u8
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
@@ -422,17 +443,15 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 无线新闻,https://h5cdn3.kylintv.tv/live/tvbnews_iphone.m3u8
 无线新闻,https://php.946985.filegear-sg.me/tvbnews.php?id=c
 无线新闻,https://php.946985.filegear-sg.me/tvbnews.php?id=inews
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://r.jdshipin.com/GeWKr?id=mzt720
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://r.jdshipin.com/jUx8K
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,https://cdn.qd.je/163189/mzt
 明珠台,https://cdn.qd.je/163189/mztvtt
 明珠剧集台,https://amg01868-tvb-amg01868c1-tvbanywhere-us-1782.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/cb443e4f7b726f86c9ce3f6c86f141a3d1553783053ade3d6fab579d26941d0ba7dc8c9ca712b3340d801ac0611a753604399f46993f11b9ba6aa9512a7c1c64fdc1ec7ddd920241b4dc043a68f5701f57fe1015c9352477dae21547d76de4295542b8582e703b9fb80ff23e4dc4860a957f3b9faa8b69397e0f09984008e0a659befee00b44c53da5b61e55c07a17e78017ca8048be84d451b779b027a55783c1a2a9ec2abfede212da2fc7163c6b1658abbd23efa33ab7de89273d95755a37743afdb881ff4038894a0d49edf6cfa278a56da4e724857379ba1088708625846fa60cd58d24ca8feb887b7015f2956a337de28fcf8bff267db963edabead84c7198fd110a28a300e3060e0eb9deee2ba9e23eb38b79c1de191c3cd3df419e8bbb80ea8f80459820c6b584f253796a46322ba5789db742ff0cf145f2be79475d4957e39345b6e0b33a0b4b7fbbda26be751abdc8c596de7c55a00c206fdb45eb64244be91a5841bf5f93ff3d689a681df75c579c6302a966c89011afd4b180073fa690cf309505878e22f7df25815901037ed99e2d5b56027cc0fe59033174c63788b9a0da563930d3d9ecd3e56e0a38536f3a8d207f850af9bbf36b7023cf5a32657050248205c26ccc72316a4ce73fa3618de9e77c4c03e9b52b551a4d9bcda38884d7b024ff1f818a953d5eb89c98197385044eaa2ebeda38c35f46da17ef2e6946af0e5943a5b6c1ec9a8169c1a694cb5252396cdff91b4d081d262d5adbd85fde50e69c0aaadbe4688cbedd5c15de7c94081ec884872ce0bbd59c0f1d86f0064f37d9836e855428c41cdb64da822188e004564d7c6641d08b52f047f68ecc9765ca5ed8256949e376bf93f4a096370695f66407735805592f2833466b95d5cf6d0c77edc656c054f4ee53a65a147e7f70d78c045191fb357bb8306d6bb1afdb81cf9c5bf0abc4539171069df440d45c8d5946beaf6ed885d8945a/68/384x216_470707/index.m3u8
-民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 永夜星河,https://live.ottiptv.cc/huya/23734169
 澳視澳門,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 澳視澳門,http://r.jdshipin.com/n2YZI
