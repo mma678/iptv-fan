@@ -182,6 +182,22 @@ CGTN-西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 风云音乐,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=fyyy
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
+重温经典,http://101.35.240.114:88/live.php?id=重温经典
+重温经典,http://8.138.7.223/tv/cwjd.php
+重温经典,https://cdn.qd.je/163189/cwjd
+重温经典,https://cdn.qd.je/163189/cwjd2
+CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
+CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
+CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
+CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
+CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
+CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
+CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
+CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
+CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
+CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 
 📡卫视频道,#genre#
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
@@ -636,24 +652,6 @@ WaterBear,https://amg01415-waterbearnetwor-waterbear-samsunguk-1h0y8.amagi.tv/pl
 WildEarth,https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
 WildEarth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Women's Sports Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
-
-🎬电影频道,#genre#
-CHC家庭影院,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcjt
-CHC家庭影院,http://192.151.150.154/live/chcjt.m3u8
-CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
-CHC家庭影院,http://107.150.60.122/live/chcjt.m3u8
-CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
-CHC动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
-CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
-CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
-CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
-CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
-CHC影迷电影,http://101.35.240.114:88/live.php?id=CHC影迷电影
-CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-CHC重温经典,http://101.35.240.114:88/live.php?id=重温经典
-CHC重温经典,http://8.138.7.223/tv/cwjd.php
-CHC重温经典,https://cdn.qd.je/163189/cwjd
-CHC重温经典,https://cdn.qd.je/163189/cwjd2
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.ottiptv.cc/huya/26355790
