@@ -567,6 +567,9 @@ CNA,https://live1.mediadesk.al/cnatvlive.m3u8
 CNA,https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 CNBC,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 CNN,https://jmp2.uk/stvp-ATBD800001VA
+CNN,https://jmp2.uk/stvp-DEBD800001S4
+CNN,https://jmp2.uk/stvp-GBBD8000016N
+CNN,https://jmp2.uk/stvp-CHBD800001D0
 CNN,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=855337&extension=ts
 CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105877.ts
 CNN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220900
@@ -574,12 +577,8 @@ CNN,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/56588
 CNN,http://1tv41.icu:8080/darriusthomas115@gmail.com/darriusthomas115@2025/1817
 CNN,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1347.ts
 CNN,http://mtayeh.ottb.xyz/live/774710333494/659822672281/13442.ts
-CNN,http://31.43.191.125:8080/live/restream/restream/154946.ts
-CNN,https://jmp2.uk/stvp-DEBD800001S4
 CNN,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671669.ts
 CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102155.ts
-CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNN,https://jmp2.uk/stvp-CHBD800001D0
 CNN Asia,https://jmp2.uk/stvp-ESBD190000137
 CNN,https://tvsen6.aynaott.com/cnn/index.m3u8
 Comedy Central,http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
