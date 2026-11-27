@@ -354,9 +354,7 @@ TVBJ1,https://amg01868-amg01868c6-tvbanywhere-us-4494.playouts.now.amagi.tv/ts-u
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -381,7 +379,6 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
-东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 东森美洲,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
@@ -395,7 +392,6 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 台視新聞,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/playlist.m3u8
 民视,http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -426,7 +422,6 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://r.jdshipin.com/yDoTN
 凤凰香港,https://cdn.qd.je/163189/fhhk
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 千禧经典台,https://cdn.qd.je/163189/tvbc
 千禧经典台,http://php.jdshipin.com/smt.php?id=Tvbclassic
@@ -538,9 +533,7 @@ Bloomberg TV,https://jmp2.uk/plu-62b976b93279cb000772c6f9.m3u8
 Bloomberg TV,http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 Bloomberg TV,https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 Bloomberg TV,https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-Bloomberg TV,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 Bloomberg TV,https://bloomberg.com/media-manifest/streams/asia.m3u8
-Bloomberg TV,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg TV,https://bloomberg.com/media-manifest/streams/aus-event.m3u8
 Bloomberg TV,https://bloomberg.com/media-manifest/streams/aus.m3u8
 Bloomberg TV,https://bloomberg.com/media-manifest/streams/eu-event.m3u8
@@ -558,7 +551,6 @@ CBS Sports HQ,https://propee33f9c2.airspace-cdn.cbsivideo.com/index.m3u8
 Cinemax Classics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 Cinemax Hits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 CMT,http://23.237.104.106:8080/USA_CMT/index.m3u8
-CNA International,https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 CNA Originals,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 CNA,https://live1.mediadesk.al/cnatvlive.m3u8
