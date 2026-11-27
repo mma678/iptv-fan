@@ -103,6 +103,7 @@ CONFIG_SCHEMA = {
     "subscribe_num": ConfigRule(kind="integer", minimum=0),
     "speed_test_limit": ConfigRule(kind="integer", minimum=0),
     "speed_test_timeout": ConfigRule(kind="integer", minimum=1),
+    "speed_test_sample_bytes": ConfigRule(kind="integer", minimum=0),
     "stream_screenshot_timeout": ConfigRule(kind="integer", minimum=1, maximum=60),
     "stream_screenshot_width": ConfigRule(kind="integer", minimum=160, maximum=3840),
     "request_timeout": ConfigRule(kind="integer", minimum=1),
@@ -479,6 +480,10 @@ class ConfigManager:
     @property
     def speed_test_timeout(self):
         return self.config.getint("Settings", "speed_test_timeout", fallback=10)
+
+    @property
+    def speed_test_sample_bytes(self):
+        return self.config.getint("Settings", "speed_test_sample_bytes", fallback=0)
 
     @property
     def open_empty_category(self):

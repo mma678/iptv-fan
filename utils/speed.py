@@ -143,7 +143,8 @@ async def get_speed_with_download(url: str, headers: dict = None, session: Any =
     min_bytes = 64 * 1024
     last_sample_time = start_time
     last_sample_size = 0
-    max_bytes = stream_sample_max_bytes if max_bytes is None else max_bytes
+    configured_bytes = config.speed_test_sample_bytes
+    max_bytes = (configured_bytes or stream_sample_max_bytes) if max_bytes is None else max_bytes
     max_duration = stream_sample_max_seconds if max_duration is None else max_duration
     request_timeout = min(timeout, max_duration) if max_duration else timeout
 
@@ -164,6 +165,8 @@ async def get_speed_with_download(url: str, headers: dict = None, session: Any =
                 delay = int(round((time() - start_time) * 1000))
                 async for chunk in response.content.iter_chunked(64 * 1024):
                     if chunk:
+                        if max_bytes:
+                            chunk = chunk[:max_bytes - total_size]
                         total_size += len(chunk)
                         now = time()
                         elapsed = now - start_time
@@ -383,6 +386,10 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
                     sampled_segment_urls = segment_urls[-(segment_sample_limit + 1):-1]
                     if not sampled_segment_urls:
                         sampled_segment_urls = segment_urls[-segment_sample_limit:]
+                    budget = config.speed_test_sample_bytes
+                    if budget:
+                        sampled_segment_urls = sampled_segment_urls[:budget]
+                    count = len(sampled_segment_urls)
                     tasks = [
                         get_speed_with_download(
                             ts_url,
@@ -390,8 +397,9 @@ async def get_result(url: str, headers: dict = None, resolution: str = None,
                             active_session,
                             timeout,
                             semaphore=http_semaphore,
+                            max_bytes=(budget // count + (index < budget % count)) if budget else None,
                         )
-                        for ts_url in sampled_segment_urls
+                        for index, ts_url in enumerate(sampled_segment_urls)
                     ]
                     results = await asyncio.gather(*tasks, return_exceptions=True)
                     valid_results = [
