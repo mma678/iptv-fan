@@ -524,14 +524,12 @@ ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b213
 ABC News Live,https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 Al Jazeera ENG,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 Al Jazeera ARABIC,https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 BBC Drama,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 BBC Drama,https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 BBC News,http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
-BBC News,http://46.32.176.50/bbcworld/index.m3u8
 BBC News,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-BBC News,http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+BBC News,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 beIN SPORTS XTRA,https://bein-xtra-bein.amagi.tv/playlist.m3u8
 Bloomberg Originals,https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
 Bloomberg Originals,https://bloomberg.com/media-manifest/streams/qt.m3u8
