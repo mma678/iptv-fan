@@ -382,6 +382,8 @@ ViuTV6,https://cdn.qd.je/163189/viu6
 东森洋片,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34904
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2015/playlist.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 中天新聞,http://128.14.206.166/pull-f5.flive.douyincdn.com/live/ztxw.flv
 中天新聞,http://222.128.55.152:9080/live/fc.m3u8
@@ -522,6 +524,7 @@ ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b213
 ABC News Live,https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 Al Jazeera ENG,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 Al Jazeera ARABIC,https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+BBC,https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 BBC Drama,https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 BBC Drama,https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -563,6 +566,21 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 CNA,https://live1.mediadesk.al/cnatvlive.m3u8
 CNA,https://mumt05.tangotv.in/87NeALx2CNA/index.m3u8
 CNBC,https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+CNN,https://jmp2.uk/stvp-ATBD800001VA
+CNN,http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B7:2C:3B&stream=855337&extension=ts
+CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105877.ts
+CNN,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/220900
+CNN,http://hostengine.live:25461/RayMcDatt56/Uld2rukiJBuCd5GC/56588
+CNN,http://1tv41.icu:8080/darriusthomas115@gmail.com/darriusthomas115@2025/1817
+CNN,http://primestreams.tv:826/live/1ARbE2L7ak/ezfQtdrB3J/1347.ts
+CNN,http://mtayeh.ottb.xyz/live/774710333494/659822672281/13442.ts
+CNN,http://31.43.191.125:8080/live/restream/restream/154946.ts
+CNN,https://jmp2.uk/stvp-DEBD800001S4
+CNN,http://211.ogtv.xyz:8080/live/cYn6Y9sb/cb6f3Zq/671669.ts
+CNN,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102155.ts
+CNN,https://jmp2.uk/stvp-GBBD8000016N
+CNN,https://jmp2.uk/stvp-CHBD800001D0
+CNN Asia,https://jmp2.uk/stvp-ESBD190000137
 CNN,https://tvsen6.aynaott.com/cnn/index.m3u8
 Comedy Central,http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
 Comedy Central,https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
