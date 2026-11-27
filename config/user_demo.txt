@@ -357,7 +357,7 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS新闻,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4027/playlist.m3u8
-TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 TVB亚洲武侠,https://cdn.qd.je/163189/yzwx
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 TVB娱乐新闻台,https://cdn.qd.je/163189/ylxw
