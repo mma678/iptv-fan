@@ -719,8 +719,17 @@ Tiny Pop,https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.t
 Toonami Aftermath East,http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 浙江少儿频道,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 卡酷少儿,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=btvkk
+卡酷少儿,http://198.204.228.26/live/btvkk.m3u8
+卡酷少儿,http://192.151.150.154/live/btvkk.m3u8
+卡酷少儿,http://204.12.221.218:8181/3m1080p/btvkk.m3u8
+卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
 哈哈炫动,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xdkthd
+哈哈炫动,http://38.75.136.137:98/gslb/dsdqpub/xdkthd.m3u8?auth=testpub
 优漫卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
+优漫卡通,http://107.150.60.122/live/ymkt.m3u8
 嘉佳卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdjjkt
+嘉佳卡通,http://192.151.150.154/live/gdjjkt.m3u8
+金鹰卡通,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jykthd
+金鹰卡通,http://192.151.150.154/live/jykt.m3u8
 
 
